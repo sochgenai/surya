@@ -1,2 +1,2 @@
 # surya
-Text Engine
+Surya is a nlp engine. 
